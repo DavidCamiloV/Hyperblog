@@ -2,3 +2,7 @@ hola
 estoy siendo profesional de python
 
 tambien un trader profesional
+
+primer cambio
+
+en camara parece alto
